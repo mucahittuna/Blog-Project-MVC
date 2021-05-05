@@ -7,14 +7,9 @@ using EntityLayer.Concrete;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface ICategoryDal: IRepository
+    public interface ICategoryDal:IRepository<Category>
     {
-        //CRUD
-        //Type Name();
-        List<Category> List();
-        void Insert(Category p);
-        void Update(Category p);
-        void Delete(Category p);
-
+      
+        
     }
 }
