@@ -21,4 +21,3 @@ C:\Users\90545\Desktop\This Pc\Blog-Project-MVC\EntityLayer\obj\Debug\EntityLaye
 C:\Users\90545\Desktop\This Pc\Blog-Project-MVC\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\90545\Desktop\This Pc\Blog-Project-MVC\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\90545\Desktop\This Pc\Blog-Project-MVC\EntityLayer\obj\Debug\EntityLayer.pdb
-C:\Users\90545\Desktop\This Pc\Blog-Project-MVC\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
